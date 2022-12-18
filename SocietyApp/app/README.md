@@ -1,4 +1,4 @@
-# society-app
+# society-app (Admin)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
