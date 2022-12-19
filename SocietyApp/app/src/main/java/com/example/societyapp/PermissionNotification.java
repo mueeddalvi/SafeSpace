@@ -24,7 +24,7 @@ import java.util.Map;
 
 public class PermissionNotification {
 
-    final String SERVER_KEY = "key="+"AAAA50A3L3s:APA91bHUNIXZisyVkYtw0DWYmw64T45UmImcugcsrcMv_caSiZSjefuk3T62B5Oeq7vx60KRLtAnMXedLWdjlPbJm_zgoMsViraEuijFCwFrUFVAZXAwgwSBKt2DmDm0iH54KrY-6pVq";
+    final String SERVER_KEY = "key="+"Enter your key"; //Removed key for security reasons 
     final String API_URL_FCM = "https://fcm.googleapis.com/fcm/send";
     final private String contentType = "application/json";
     JSONObject notification,notificationBody;
